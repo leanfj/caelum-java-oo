@@ -1,4 +1,3 @@
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
 
 public class PosPreIncremento {
   public static void main(String[] args) {
